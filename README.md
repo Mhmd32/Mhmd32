@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adil Yassin</h1>
 <h3 align="center"> Flutter | .Net | .NetCore | API | SQL Server | UI/UX </h3>
 
-- 👨‍💻 Business application specialist with six years of experience in Business applications "Mobile applications development ”Android & IOS”, web development , database development and systems administration".
+- 👨‍💻 Senior Software developer with 7 years of experience in Business applications "Mobile applications development ”Android & IOS”, web development , database development and systems administration".
 
-- 💬 Ask me about **Flutter, .Net, .NetCore, SQL Server**
+- 💬 Ask me about **.Net, .NetCore, Fultter, SQL Server**
 
 - 📫 How to reach me **m.adil1893@gmail.com**
 
