@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed Adil Yassin</h1>
-<h3 align="center"> Flutter | .Net | .NetCore | API | SQL Server | UI/UX </h3>
+<h3 align="center"> AI | Azure | Chatbot | API Integration | Could Services | UI/UX </h3>
 
-- 👨‍💻 Senior Software developer with 7 years of experience in Business applications "Mobile applications development ”Android & IOS”, web development , database development and systems administration".
+- 👨‍💻 AI Consultant with 8 years of experience in Software Engineering "AI, Azure, Chatbot, API Integration, Could Services, Python, NodeJS, FullStack .NET".
 
-- 💬 Ask me about **.Net, .NetCore, Fultter, SQL Server**
+- 💬 Ask me about **AI, Azure, Chatbot, API Integration, Could Services, Python, NodeJS, FullStack .NET**
 
 - 📫 How to reach me **m.adil1893@gmail.com**
 
